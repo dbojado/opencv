@@ -13,9 +13,14 @@
 
 
 #### Projects
-  1. Project Virtual Paint
-  2. Project2: Document Scanner
-  3. Project3: Number Plate Detection
+  1. Virtual Paint
+  2. Document Scanner
+  3. Number Plate Detection
+
+
+#### Original Projects
+  1. Emotion Detector
+  2. Identify Yourself
 
 
 #### Project Credit: 

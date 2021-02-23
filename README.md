@@ -1,4 +1,6 @@
 # OpenCV Project
+
+#### Lessons
   1. Read Images, Videos, and Webcams
   2. Basic Functions 
   3. Resizing and Cropping
@@ -8,6 +10,12 @@
   7. Color Detection
   8. Contour/Shape Detection
   9. Face Detection
+
+
+#### Projects
+  1. Project Virtual Paint
+  2. Project2: Document Scanner
+  3. Project3: Number Plate Detection
 
 
 #### Project Credit: 

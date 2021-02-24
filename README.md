@@ -18,11 +18,6 @@
   3. Number Plate Detection
 
 
-#### Original Projects
-  1. Emotion Detector
-  2. Identify Yourself
-
-
 #### Project Credit: 
   - Murtaza's Workshop - Robotics and AI     
   (https://www.youtube.com/watch?v=WQeoO7MI0Bs&list=WL&index=19&t=394s)
